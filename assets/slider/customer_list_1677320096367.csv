@@ -1,0 +1,6 @@
+﻿Customer List
+
+id,fname,lname,gender,phone,role,email,email_verified_at,created_at,updated_at
+3,,,,,"Rider","joel@gmail.com",,"2023-01-23T01:18:05.000000Z","2023-01-23T01:18:05.000000Z"
+2,,,,,"Customer","somtobuchi@gmail.com",,"2023-01-21T10:26:56.000000Z","2023-01-21T10:26:56.000000Z"
+1,,,,,"Admin","chibuchisomto1@gmail.com",,"2023-01-21T09:58:53.000000Z","2023-01-21T09:58:53.000000Z"
